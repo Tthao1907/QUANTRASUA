@@ -21,6 +21,7 @@ MENU_TEA = {
     "Trà Sữa Dâu Tây": 35000,
     "Trà Đào Cam Sả": 35000,
     "Trà Dâu Tằm": 32000,
+    "Hồng trà kem cheese": 20000,
 }
 
 SIZE_OPTIONS = {
@@ -32,8 +33,10 @@ SIZE_OPTIONS = {
 TOPPING_OPTIONS = {
     "Trân châu đen": 5000,
     "Trân châu trắng": 7000,
+    "Trân châu hoàng kim": 5000,
     "Thạch trái cây": 5000,
     "Pudding trứng": 8000,
+    "Khúc bạch phô mai": 10000,
     "Kem Cheese": 10000
 }
 
