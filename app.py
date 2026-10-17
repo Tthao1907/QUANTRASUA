@@ -37,7 +37,8 @@ TOPPING_OPTIONS = {
     "Thạch trái cây": 5000,
     "Pudding trứng": 8000,
     "Khúc bạch phô mai": 10000,
-    "Kem Cheese": 10000
+    "Kem Cheese": 10000,
+    "Hạt thủy tinh việt quất": 10000,
 }
 
 SUGAR_LEVELS = ["100% (Bình thường)", "70%", "50%", "30%", "0% (Không đường)"]
